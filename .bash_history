@@ -1,0 +1,66 @@
+#1628995640
+ls
+#1628995645
+cd public_html/
+#1628995646
+ls
+#1628995650
+unzip api.zip 
+#1628997879
+ls
+#1628997884
+cd public_html/
+#1628997885
+ls
+#1628997893
+rm -r delete/
+#1628997896
+ls
+#1628997900
+unzip api.zip 
+#1628998420
+ls
+#1630100284
+cd p
+#1630100288
+cd public_html/
+#1630100289
+ls
+#1630100299
+unzip public_html.zip 
+#1633205688
+ls
+#1633205695
+cd public_html/
+#1633205697
+clear
+#1633205699
+ls
+#1633205703
+cd storage/logs/
+#1633205704
+ls
+#1633205709
+vim laravel.log 
+#1633205798
+eit
+#1633205800
+exit
+#1637786985
+ls
+#1637786993
+exit
+#1638826119
+clear
+#1638826121
+ls
+#1638826160
+exit
+#1638826408
+clear
+#1638826410
+ls
+#1638826432
+zip -r public_html.zip public_html/
+#1638826460
+ls
